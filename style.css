@@ -320,7 +320,7 @@ color: var(--secondry--color);
 .Testimonial-div{
   display: flex;
   justify-content: space-around;
-  margin-top: 40px;
+  margin-top: 10px;
 }
 
 .testimoial-content{
